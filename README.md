@@ -46,6 +46,11 @@ We introduce KorNLI and KorSTS, which are NLI and STS datasets in Korean.
 | 한 비행기가 착륙하고 있다.<br />애니메이션화된 비행기 하나가 착륙하고 있다. | A plane is landing.<br />A animated airplane is landing. | 2.8   |
 | 한 여성이 고기를 요리하고 있다.<br />한 남자가 말하고 있다. | A woman is cooking meat.<br />A man is speaking.      | 0.0   |
 
+## User Contributed Examples
+
+### KorNLU Datasets을 활용한 한국어 문장 임베딩 
+
+- https://github.com/BM-K/Sentence-Embedding-is-all-you-need
 
 ## License
 
